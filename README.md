@@ -29,7 +29,58 @@ telegram: @king_menin
 
 [Лекция 1. Часть 1. Введение](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%201.%20intro%20to%20nlp/lecture%201.%20part%201.%20intro.pdf), [Лекция 1. Часть 2. Морфологический анализ](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%201.%20intro%20to%20nlp/lecture%201.%20part%202.%20morphology.pdf), [ноутбук с семинара](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%201.%20intro%20to%20nlp/sem1.ipynb), [домашнее задание](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/hw1.ipynb).
 
-Необходимые библиотеки Python описаны в начале [ноутбука с семинара](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%201.%20intro%20to%20nlp/sem1.ipynb).
+
+#### Необходимые библиотеки для занятия    
+Обычно <b>ставятся автоматически</b> при установке jupyter notebook:
+<ul>
+<li><i>numpy</i> - для работы с массивами
+
+```!pip3 install numpy```
+</li>
+<li><i>sklearn</i> - блиблиотека для работы с данными, содержит большинство алгоритмов машинного обучения</li>
+
+```!pip3 install sklearn```
+
+</li>
+<li><i>pandas</i> - библиотека для удобной работы с данными как с DataFrame
+
+```!pip3 install pandas```
+</li>
+<li><i>matplotlib</i> - библиотека для визуализации
+
+```!pip3 install matplotlib```
+</li>
+</ul>
+
+Обычно <b>не ставятся автоматически</b> при установке jupyter notebook:
+<ul>
+<li><i>rusenttokenize</i> - для разбиения текста на предложения (русский язык)
+
+```!pip3 install rusenttokenize```
+</li>
+<li><i>nltk</i> - фреймворк для обработки ЕЯ
+
+```!pip3 install nltk```
+
+Также необходимо выполнить следующие команды, чтобы загрузить данные:
+
+```import nltk```
+
+```nltk.download('treebank')```
+
+```nltk.download('stopwords')```
+
+```nltk.download('punkt')```
+
+<li><i>python-crfsuite</i> - для использования CRF</li>
+
+```!pip3 install python-crfsuite```
+</li>
+<li><i>pymorphy2</i> - морфологический анализатор русского языка
+
+```!pip3 install pymorphy2```
+</li>
+</ul>
 
 
 
