@@ -12,6 +12,7 @@ telegram: @king_menin
 | занятие 1 (27 октября)  | Введение: задачи автоматической обработки текстов и основные подходы к их решению. Токенизация, морфологический анализ. Sequence labeling  | Регулярные выражения, лемматизация, POS-тэггинг, морфологический анализ. | Генерация текста по шаблону. Извлечение телефонных номеров из текста.   
 | занятие 2 (1 ноября)  | Вектора слов. Дистрибутивная семантика  | Вектора слов. Близость документов. | Диалог с поэтом   
 | занятие 3 (8 ноября)  | Тематическое моделирование  | Применение тематического моделирования и визуализация коллекций. Классификация, fasttext.| Тематический анализ коллекции
+| занятие 4 (10 ноября)  | Нейронные сети. | Классификация и генерация текстов с помощью нейронных сетей. | Извлечение именованных сущностей.
 
 
 ## 27 октября
@@ -36,6 +37,38 @@ telegram: @king_menin
 
 [Лекция 3. Тематическое моделирование](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%203.%20topic%20modeling%20and%20classification/topic%20modeling.pdf), ноутбуки семинара - тематическое моделирование: [git](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%203.%20topic%20modeling%20and%20classification/topic_modeling.ipynb); [colab](https://colab.research.google.com/drive/18QKAqSRyHxueej6XBSNLcEgY9Fr7_kAO), fasttext классификация [git](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%203.%20topic%20modeling%20and%20classification/classification.ipynb); [colab](https://colab.research.google.com/drive/1I9qBSkgILoLl0fLtm7Mqrl6L3xBv3IOr) [домашнее задание](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/hw3.ipynb).
 
+Необходимые библиотеки Python:
+* nltk; после установки nltk необходимо из командной строки Python3 вызвать команды
+```python
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+```
+* pymorphy2
+* matplotlib
+* pandas
+* sklearn
+* pymystem3
+* python-rake
+* wordcloud
+* gensim
+* pyLDAvis
+* fasttext (не путайте с fastText)
+
+
+## 10 ноября
+
+Данные к занятию лежат в папке: [ru.vec](https://www.dropbox.com/s/0x7oxso6x93efzj/ru.tar.gz), [dinos.txt](https://www.dropbox.com/s/e0v7ex10s5kfu0y/dinos.txt?dl=0), [articles_lemmatized_noSW.csv](https://www.dropbox.com/sh/513tgmhz2ollna5/AAB6W-J3zwKDxKHSUnhjaYINa?dl=0&preview=articles_lemmatized_noSW.csv)
+
+[Лекция 4. Нейронные сети в анализе текстов.](),  практика [RU_FNN_CNN](), [домашнее задание](https://github.com/king-menin/nlp-course/blob/master/hw3-4/hw4.ipynb)
+
+Необходимые библиотеки Python:
+* gensim
+* matplotlib
+* sklearn
+* keras
+* pandas
+
 
 ## Рекомендуемые ресурсы
 ### На английском
@@ -50,6 +83,7 @@ telegram: @king_menin
 
 ### На русском (и про русский, в основном)
 
+* [Курс nlp в яндексе](https://github.com/yandexdataschool/nlp_course)
 * [НКРЯ](http://ruscorpora.ru)
 * [Открытый корпус](http://opencorpora.org)
 * [Дистрибутивные семантические модели для русского языка](http://rusvectores.org/ru/)
