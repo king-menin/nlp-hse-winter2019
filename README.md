@@ -11,6 +11,7 @@ telegram: @king_menin
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------|
 | занятие 1 (27 октября)  | Введение: задачи автоматической обработки текстов и основные подходы к их решению. Токенизация, морфологический анализ. Sequence labeling  | Регулярные выражения, лемматизация, POS-тэггинг, морфологический анализ. | Генерация текста по шаблону. Извлечение телефонных номеров из текста.   
 | занятие 2 (1 ноября)  | Вектора слов. Дистрибутивная семантика  | Вектора слов. Близость документов. |    
+| занятие 3 (8 ноября)  | Тематическое моделирование  | Применение тематического моделирования и визуализация коллекций. Классификация, fasttext.| Тематический анализ коллекции
 
 
 ## 27 октября
@@ -24,12 +25,18 @@ telegram: @king_menin
 Необходимые библиотеки Python описаны в начале [ноутбука с семинара](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%201.%20intro%20to%20nlp/sem1.ipynb).
 
 
-## 2 ноября
+## 1 ноября
 
 Данные к занятию: инструкции в [ноутбуке](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%202.%20word%20vectors/ds.ipynb)
 
 [Лекция 2. Вектора слов](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%202.%20word%20vectors/word%20vectors.pdf), [ноутбук с семинара](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%202.%20word%20vectors/ds.ipynb), [домашнее задание](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/hw2.ipynb).
 
+
+## 8 ноября
+
+Данные к занятию: инструкции в [папке](https://github.com/king-menin/nlp-hse-autumn2018/tree/master/lecture%203.%20topic%20modeling%20and%20classification) и на [google диске](https://drive.google.com/file/d/19e2fOFpykP4iWCCCxzlJraAilvnVb1m9/view)
+
+[Лекция 3. Тематическое моделирование](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%203.%20topic%20modeling%20and%20classification/topic%20modeling.pdf), ноутбуки семинара - тематическое моделирование: [git](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%203.%20topic%20modeling%20and%20classification/topic_modeling.ipynb); [colab](https://colab.research.google.com/drive/18QKAqSRyHxueej6XBSNLcEgY9Fr7_kAO), fasttext классификация [git](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%203.%20topic%20modeling%20and%20classification/classification.ipynb); [colab](https://colab.research.google.com/drive/1I9qBSkgILoLl0fLtm7Mqrl6L3xBv3IOr) [домашнее задание]().
 
 
 ## Рекомендуемые ресурсы
