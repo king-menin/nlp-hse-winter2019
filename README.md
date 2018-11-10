@@ -12,7 +12,7 @@ telegram: @king_menin
 | занятие 1 (27 октября)  | Введение: задачи автоматической обработки текстов и основные подходы к их решению. Токенизация, морфологический анализ. Sequence labeling  | Регулярные выражения, лемматизация, POS-тэггинг, морфологический анализ. | Генерация текста по шаблону. Извлечение телефонных номеров из текста.   
 | занятие 2 (1 ноября)  | Вектора слов. Дистрибутивная семантика  | Вектора слов. Близость документов. | Диалог с поэтом   
 | занятие 3 (8 ноября)  | Тематическое моделирование  | Применение тематического моделирования и визуализация коллекций. Классификация, fasttext.| Тематический анализ коллекции
-| занятие 4 (10 ноября)  | Нейронные сети. | Классификация и генерация текстов с помощью нейронных сетей. | Извлечение именованных сущностей.
+| занятие 4 (10 ноября)  | Нейронные сети. | Классификация текстов с помощью нейронных сетей. | Извлечение именованных сущностей.
 
 
 ## 27 октября
@@ -58,9 +58,9 @@ nltk.download('punkt')
 
 ## 10 ноября
 
-Данные к занятию лежат в папке: [ru.vec](https://www.dropbox.com/s/0x7oxso6x93efzj/ru.tar.gz), [dinos.txt](https://www.dropbox.com/s/e0v7ex10s5kfu0y/dinos.txt?dl=0), [articles_lemmatized_noSW.csv](https://www.dropbox.com/sh/513tgmhz2ollna5/AAB6W-J3zwKDxKHSUnhjaYINa?dl=0&preview=articles_lemmatized_noSW.csv)
+Данные к занятию лежат в папке: [ru.vec](https://www.dropbox.com/s/0x7oxso6x93efzj/ru.tar.gz), [articles_lemmatized_noSW.csv](https://www.dropbox.com/sh/513tgmhz2ollna5/AAB6W-J3zwKDxKHSUnhjaYINa?dl=0&preview=articles_lemmatized_noSW.csv)
 
-[Лекция 4. Нейронные сети в анализе текстов.](),  практика [RU_FNN_CNN](), [домашнее задание](https://github.com/king-menin/nlp-course/blob/master/hw3-4/hw4.ipynb)
+[Лекция 4. Нейронные сети в анализе текстов.](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%204.%20neural%20networks%20in%20nlp/neural%20networks%20in%20nlp.pdf),  практика [git:RU_FNN_CNN_and_RNN](); [colab](https://colab.research.google.com/drive/1_CiD5xTMSxXSLdxD3b89pl1jmysc0pet), [домашнее задание](https://github.com/king-menin/nlp-course/blob/master/hw4.ipynb)
 
 Необходимые библиотеки Python:
 * gensim
