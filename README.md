@@ -60,7 +60,7 @@ nltk.download('punkt')
 
 Данные к занятию лежат в папке: [ru.vec](https://www.dropbox.com/s/0x7oxso6x93efzj/ru.tar.gz), [articles_lemmatized_noSW.csv](https://www.dropbox.com/sh/513tgmhz2ollna5/AAB6W-J3zwKDxKHSUnhjaYINa?dl=0&preview=articles_lemmatized_noSW.csv)
 
-[Лекция 4. Нейронные сети в анализе текстов.](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%204.%20neural%20networks%20in%20nlp/neural%20networks%20in%20nlp.pdf),  практика [git:RU_FNN_CNN_and_RNN](); [colab](https://colab.research.google.com/drive/1_CiD5xTMSxXSLdxD3b89pl1jmysc0pet), [домашнее задание](https://github.com/king-menin/nlp-course/blob/master/hw4.ipynb)
+[Лекция 4. Нейронные сети в анализе текстов.](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%204.%20neural%20networks%20in%20nlp/neural%20networks%20in%20nlp.pdf),  практика [git](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%204.%20neural%20networks%20in%20nlp/RU_FNN_CNN_and_RNN.ipynb); [colab](https://colab.research.google.com/drive/1_CiD5xTMSxXSLdxD3b89pl1jmysc0pet), [домашнее задание](https://github.com/king-menin/nlp-course/blob/master/hw4.ipynb)
 
 Необходимые библиотеки Python:
 * gensim
