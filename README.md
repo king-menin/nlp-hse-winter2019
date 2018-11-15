@@ -69,6 +69,14 @@ nltk.download('punkt')
 
 [Лекция 5. Языковые модели.](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%205.%20language%20models/language%20models.pdf),  практика в папке с лекцией [git](https://github.com/king-menin/nlp-hse-autumn2018/tree/master/lecture%205.%20language%20models); [colab, lm](https://colab.research.google.com/drive/12Px51s4HRa75F59SHe7Degh52_YQN9JT); [colab, elmo](https://drive.google.com/file/d/1Z1rUSpV7xSHGksZNyijjIwl1nCI-pxUN/view?usp=sharing), [домашнее задание]()
 
+Ссылки на реализации языковых моделей/примеры использования:
+* ELMO: tf - [ru](http://docs.deeppavlov.ai/en/master/apiref/models/embedders.html#deeppavlov.models.embedders.elmo_embedder.ELMoEmbedder), [en](https://tfhub.dev/google/elmo/2); pytorch - [for many languages](https://github.com/HIT-SCIR/ELMoForManyLangs/)
+* ULMFit: pytorch - [en](https://github.com/fastai/fastai/blob/master/courses/dl2/imdb.ipynb)
+* Flair: [en chars](https://github.com/zalandoresearch/flair)
+* BERT: tf - [multilingual](https://github.com/google-research/bert), pytorch - [multilingual](https://github.com/huggingface/pytorch-pretrained-BERT)
+
+
+
 Необходимые библиотеки Python:
 * matplotlib
 * sklearn
