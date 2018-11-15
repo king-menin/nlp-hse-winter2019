@@ -13,7 +13,7 @@ telegram: @king_menin
 | занятие 2 (1 ноября)  | Вектора слов. Дистрибутивная семантика  | Вектора слов. Близость документов. | Диалог с поэтом   
 | занятие 3 (8 ноября)  | Тематическое моделирование  | Применение тематического моделирования и визуализация коллекций. Классификация, fasttext.| Тематический анализ коллекции
 | занятие 4 (10 ноября)  | Нейронные сети. | Классификация текстов с помощью нейронных сетей. | Извлечение именованных сущностей.
-| занятие 5 (15 ноября)  | Языковые модели. | coming soon | coming soon
+| занятие 5 (15 ноября)  | Языковые модели. | Языковые модели для классификации и генерации | coming soon
 
 
 ## 27 октября
@@ -63,12 +63,18 @@ nltk.download('punkt')
 
 [Лекция 4. Нейронные сети в анализе текстов.](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%204.%20neural%20networks%20in%20nlp/neural%20networks%20in%20nlp.pdf),  практика [git](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%204.%20neural%20networks%20in%20nlp/RU_FNN_CNN_and_RNN.ipynb); [colab](https://colab.research.google.com/drive/1_CiD5xTMSxXSLdxD3b89pl1jmysc0pet), [домашнее задание](https://github.com/king-menin/nlp-course/blob/master/hw4.ipynb)
 
+## 15 ноября
+
+Данные к занятию лежат в папке: [git](https://github.com/king-menin/nlp-hse-autumn2018/tree/master/lecture%205.%20language%20models)
+
+[Лекция 5. Языковые модели.](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%205.%20language%20models/language%20models.pdf),  практика в папке с лекцией [git](https://github.com/king-menin/nlp-hse-autumn2018/tree/master/lecture%205.%20language%20models); [colab, lm](https://colab.research.google.com/drive/12Px51s4HRa75F59SHe7Degh52_YQN9JT); [colab, elmo](https://drive.google.com/file/d/1Z1rUSpV7xSHGksZNyijjIwl1nCI-pxUN/view?usp=sharing), [домашнее задание]()
+
 Необходимые библиотеки Python:
-* gensim
 * matplotlib
 * sklearn
 * keras
 * pandas
+* nltk
 
 
 ## Рекомендуемые ресурсы
