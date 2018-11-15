@@ -72,7 +72,7 @@ nltk.download('punkt')
 Ссылки на реализации языковых моделей/примеры использования:
 * ELMO: tf - [ru](http://docs.deeppavlov.ai/en/master/apiref/models/embedders.html#deeppavlov.models.embedders.elmo_embedder.ELMoEmbedder), [en](https://tfhub.dev/google/elmo/2); pytorch - [for many languages](https://github.com/HIT-SCIR/ELMoForManyLangs/)
 * ULMFit: pytorch - [en](https://github.com/fastai/fastai/blob/master/courses/dl2/imdb.ipynb)
-* Flair: [en chars](https://github.com/zalandoresearch/flair)
+* Flair: pytorch - [en chars](https://github.com/zalandoresearch/flair)
 * BERT: tf - [multilingual](https://github.com/google-research/bert), pytorch - [multilingual](https://github.com/huggingface/pytorch-pretrained-BERT)
 
 
