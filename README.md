@@ -78,7 +78,7 @@ nltk.download('punkt')
 
 ## 22 ноября
 
-[Лекция 6. Seq2Seq and Attention.](),  практика [git](); [colab](https://colab.research.google.com/drive/1yTyBdBOho3f29Hbm2FCW3Yj0WzR_caTd), [домашнее задание](https://github.com/king-menin/nlp-course/blob/master/hw6.ipynb)
+[Лекция 6. Seq2Seq and Attention.](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%206.%20seq2seq%20and%20attention/seq2seq%20and%20attention.pdf),  практика [git](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%206.%20seq2seq%20and%20attention/tf_attention.ipynb); [colab](https://colab.research.google.com/drive/1yTyBdBOho3f29Hbm2FCW3Yj0WzR_caTd), [домашнее задание](https://github.com/king-menin/nlp-course/blob/master/hw6.ipynb)
 
 
 
