@@ -13,7 +13,8 @@ telegram: @king_menin
 | занятие 2 (1 ноября)  | Вектора слов. Дистрибутивная семантика  | Вектора слов. Близость документов. | Диалог с поэтом   
 | занятие 3 (8 ноября)  | Тематическое моделирование  | Применение тематического моделирования и визуализация коллекций. Классификация, fasttext.| Тематический анализ коллекции
 | занятие 4 (10 ноября)  | Нейронные сети. | Классификация текстов с помощью нейронных сетей. | Извлечение именованных сущностей.
-| занятие 5 (15 ноября)  | Языковые модели. | Языковые модели для классификации и генерации | coming soon
+| занятие 5 (15 ноября)  | Языковые модели. | Языковые модели для классификации и генерации | Применение Elmo на imdb
+| занятие 6 (22 ноября)  | Seq2Seq and attention. | Attention на tensorflow для NMT  | coming soon
 
 
 ## 27 октября
@@ -67,7 +68,7 @@ nltk.download('punkt')
 
 Данные к занятию лежат в папке: [git](https://github.com/king-menin/nlp-hse-autumn2018/tree/master/lecture%205.%20language%20models)
 
-[Лекция 5. Языковые модели.](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%205.%20language%20models/language%20models.pdf),  практика в папке с лекцией [git](https://github.com/king-menin/nlp-hse-autumn2018/tree/master/lecture%205.%20language%20models); [colab, lm](https://colab.research.google.com/drive/12Px51s4HRa75F59SHe7Degh52_YQN9JT); [colab, elmo](https://drive.google.com/file/d/1Z1rUSpV7xSHGksZNyijjIwl1nCI-pxUN/view?usp=sharing), [домашнее задание]()
+[Лекция 5. Языковые модели.](https://github.com/king-menin/nlp-hse-autumn2018/blob/master/lecture%205.%20language%20models/language%20models.pdf),  практика в папке с лекцией [git](https://github.com/king-menin/nlp-hse-autumn2018/tree/master/lecture%205.%20language%20models); [colab, lm](https://colab.research.google.com/drive/12Px51s4HRa75F59SHe7Degh52_YQN9JT); [colab, elmo](https://drive.google.com/file/d/1Z1rUSpV7xSHGksZNyijjIwl1nCI-pxUN/view?usp=sharing), [домашнее задание](https://github.com/king-menin/nlp-course/blob/master/hw5.ipynb)
 
 Ссылки на реализации языковых моделей/примеры использования:
 * ELMO: tf - [ru](http://docs.deeppavlov.ai/en/master/apiref/models/embedders.html#deeppavlov.models.embedders.elmo_embedder.ELMoEmbedder), [en](https://tfhub.dev/google/elmo/2); pytorch - [for many languages](https://github.com/HIT-SCIR/ELMoForManyLangs/)
@@ -75,14 +76,10 @@ nltk.download('punkt')
 * Flair: pytorch - [en chars](https://github.com/zalandoresearch/flair)
 * BERT: tf - [multilingual](https://github.com/google-research/bert), pytorch - [multilingual](https://github.com/huggingface/pytorch-pretrained-BERT)
 
+## 22 ноября
 
+[Лекция 6. Seq2Seq and Attention.](),  практика [git](); [colab](https://colab.research.google.com/drive/1yTyBdBOho3f29Hbm2FCW3Yj0WzR_caTd), [домашнее задание](https://github.com/king-menin/nlp-course/blob/master/hw6.ipynb)
 
-Необходимые библиотеки Python:
-* matplotlib
-* sklearn
-* keras
-* pandas
-* nltk
 
 
 ## Рекомендуемые ресурсы
