@@ -19,7 +19,7 @@ telegram: @king_menin
 
 Данные к занятию лежат в папке: [git:lecture 1. intro to nlp](lecture%201.%20intro%20to%20nlp)
 
-[Лекция 1. Часть 1. Введение](lecture%201.%20intro%20to%20nlp/lecture%201.%20part%201.%20intro.pdf), [Лекция 1. Часть 2. Морфологический анализ](lecture%201.%20intro%20to%20nlp/lecture%201.%20part%202.%20morphology.pdf), [ноутбук с семинара](lecture%201.%20intro%20to%20nlp/sem1.ipynb), [домашнее задание](hw1.ipynb).
+[Лекция 1. Часть 1. Введение](lecture%201.%20intro%20to%20nlp/lecture%201.%20part%201.%20intro.pdf), [Лекция 1. Часть 2. Морфологический анализ](lecture%201.%20intro%20to%20nlp/lecture%201.%20part%202.%20morphology.pdf), [ноутбук с семинара](lecture%201.%20intro%20to%20nlp/sem1.ipynb)/[colab](https://drive.google.com/file/d/1NqFCXkCoD1b-RFkNX0EoX-hS-4qOtcB4/view?usp=sharing), [домашнее задание](hw1.ipynb).
 
 Необходимые библиотеки Python описаны в начале [ноутбука с семинара](lecture%201.%20intro%20to%20nlp/sem1.ipynb).
 
