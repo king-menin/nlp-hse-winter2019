@@ -28,7 +28,7 @@ telegram: @king_menin
 
 Данные к занятию: в [папке](lecture%202.%20word%20vectors/), предобученная модель [тут](https://www.dropbox.com/s/0x7oxso6x93efzj/ru.tar.gz?dl=1)
 
-[Лекция 2. Вектора слов](lecture%202.%20word%20vectors/word%20vectors.pdf), [ноутбук с семинара](lecture%202.%20word%20vectors/word_vectors.ipynb), [домашнее задание](hw2.ipynb).
+[Лекция 2. Вектора слов](lecture%202.%20word%20vectors/word%20vectors.pdf), [ноутбук с семинара](lecture%202.%20word%20vectors/word_vectors.ipynb)/[colab](https://colab.research.google.com/drive/1BQ6urKFDc4N3SK_BEhDbLLskdLQT1n-O), [домашнее задание](hw2.ipynb).
 
 
 ## 20 декабря
